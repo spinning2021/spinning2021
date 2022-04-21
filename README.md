@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spinning2021
 - 👀 I’m interested in computer vision and machine learning,
-- 🌱 I’m currently working on computer vision 
+- 🌱 I’m currently working on computer vision and machine learning,
 - 💞️ I’m looking to collaborate on computer vision and deep learning
 - 📫 How to reach me ...
 
